@@ -1,2 +1,2 @@
 # buddhamaybharat-landing-page
-[buddhamaybharat.com](buddhamaybharat.com)
+[buddhamaybharat.com](https://buddhamaybharat.com/)
