@@ -1,0 +1,28 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.navbar-item img {
+    max-height: 3rem;
+}
+
+.navbar-wrapper.navbar-faded .navbar-brand img {
+    height: 3rem;
+    border-radius: 5px;
+}
+
+.navbar-wrapper .navbar-brand img {
+    height: 3rem;
+    border-radius: 5px;
+}
+
+.button.primary-btn {
+    outline: none;
+    border-color: #044392;
+    background-color: #044392   ;
+    color: #fff;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    font-family: 'Nunito', sans-serif;
+}
